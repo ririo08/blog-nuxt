@@ -2,7 +2,7 @@ export default defineNuxtConfig({
   // https://github.com/nuxt-themes/alpine
   extends: '@nuxt-themes/alpine',
   app: {
-    baseURL: 'blog-nuxt'
+    baseURL: '/blog-nuxt/'
   },
   modules: [
     // https://github.com/nuxt-modules/plausible
